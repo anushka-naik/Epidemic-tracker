@@ -1,5 +1,4 @@
 # EPIDEMIC TRACER USING DSA 
-Epidemic tracker
 
 Data structures used: 
 - min heap
