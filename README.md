@@ -1,5 +1,5 @@
-# dsa-project 2022
-Pandemic tracker
+# EPIDEMIC TRACER USING DSA 
+Epidemic tracker
 
 Data structures used: 
 - min heap
